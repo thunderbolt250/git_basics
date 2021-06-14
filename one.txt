@@ -1,1 +1,2 @@
  this is just an intro to git fundamentals
+ this is a second line
